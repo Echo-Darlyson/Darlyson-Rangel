@@ -1,7 +1,7 @@
 #Portuguese/Português
 
 - 👋 Olá, Sou @Darlyson-Rangel
-- 👀 Me interesso muito por Python, Cybersegurança, Desenvolvimento de Games e
+- 👀 Me interesso muito por Python, Cibersegurança, Desenvolvimento de Games e
   Tudo sobre o mundo da tecnologia
 - 🌱 Estou atualmente estudando Python e Java
 - 💞 Procuro colaborar com tudo que estiver ao meu alcance
